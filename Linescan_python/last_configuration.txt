@@ -1,0 +1,16 @@
+Serial Configuration	
+Com. port	COM5
+Baud rate	115200
+Microcontroler configuration	
+Size word	8
+Size ADC	7388
+Sensor configuration	
+Exposure time	2.2e-05
+Prescaler register	0
+Autoreload register	10
+Binning	4
+Data file	
+File path	data
+Save	True
+Append(True)/Inc. File(False)	True
+Next Data	Data_0000
